@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class ATM {
 
     public static void main(String args[]) {
@@ -81,7 +79,7 @@ public class ATM {
                         break;
 
                     case 5:
-                        System.out.println("Thank you for using ATM!");
+                        System.out.println("Thank you for using our ATM!");
                         System.exit(0);
                 }
             }

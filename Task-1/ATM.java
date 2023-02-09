@@ -1,5 +1,4 @@
 
-import java.net.SocketTimeoutException;
 import java.util.Scanner;
 
 public class ATM {
@@ -87,6 +86,7 @@ public class ATM {
                 }
             }
         }
+        sc.close();
     }
 
 }
